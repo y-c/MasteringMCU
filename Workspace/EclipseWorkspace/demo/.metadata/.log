@@ -1,0 +1,38 @@
+!SESSION 2018-01-01 10:39:14.963 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/yuchen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/yuchen/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-01-01 10:41:11.223
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.metadata 1 0 2018-01-01 14:22:38.818
+!MESSAGE No translation source unavailable. Default language will be used.
+!SESSION 2018-01-01 14:30:11.196 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -keyring /Users/yuchen/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -data file:/Users/yuchen/Documents/MasteringMCU/Workspace/EclipseWorkspace/demo/ -product org.eclipse.epp.package.cpp.product -keyring /Users/yuchen/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-01-01 14:30:18.606
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-01-01 14:53:26.714
+!MESSAGE Indexed 'blinky-STM32F4_NUCLEO' (19 sources, 24 headers) in 5.11 sec: 3,795 declarations; 3,424 references; 52 unresolved inclusions; 224 syntax errors; 2,216 unresolved names (23%)
+
+!ENTRY ilg.gnumcueclipse.packs.data 4 1 2018-01-01 21:39:40.897
+!MESSAGE File .repos.xml does not exist, using defaults.
+
+!ENTRY org.eclipse.cdt.core 1 0 2018-01-01 21:41:58.410
+!MESSAGE Indexed 'blinky-STM32F4_NUCLEO' (29 sources, 164 headers) in 3.54 sec: 11,257 declarations; 29,551 references; 0 unresolved inclusions; 150 syntax errors; 132 unresolved names (0.32%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-03-29 14:05:37.986
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2018-03-29 14:05:38.005
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
